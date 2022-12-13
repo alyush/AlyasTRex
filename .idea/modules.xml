@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AlyasTRex.iml" filepath="$PROJECT_DIR$/.idea/AlyasTRex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AlyasTRex_pycharm.iml" filepath="$PROJECT_DIR$/.idea/AlyasTRex_pycharm.iml" />
     </modules>
   </component>
 </project>
