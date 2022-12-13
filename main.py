@@ -156,7 +156,6 @@ def main():
         player.update(userInput)
 
         background()
-        свсвс
 
         cloud.draw(SCREEN)
         cloud.update()
